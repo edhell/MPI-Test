@@ -12,9 +12,9 @@ Comandos
 * SLAVES (Windows): "smpd –d 3"
 * MASTER (Windows): "mpiexec.exe –d 3 –hosts 2 192.168.25.2 4 192.168.25.10 4 .\Project1.exe 1000"
 
-* "-d 3": DEGUB mostrando tudo
-* "-hosts 2": 2 hosts serão utilizados
-* "192.168.25.2 4 ": 4 Processos no host 192.168.25.2
-* "Project1.exe 1000": Aplicativo que será executado, criando matrizes de dimensão 1000*1000
+  * "-d 3": DEGUB mostrando tudo
+  * "-hosts 2": 2 hosts serão utilizados
+  * "192.168.25.2 4 ": 4 Processos no host 192.168.25.2
+  * "Project1.exe 1000": Aplicativo que será executado, criando matrizes de dimensão 1000*1000
 
 Qualquer dúvida entre em contato: www.edinfo.com.br
